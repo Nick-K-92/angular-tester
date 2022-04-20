@@ -1,0 +1,22 @@
+{
+  "name": "angular-tester",
+  "version": "1.0.0",
+  "description": "A simple console application to run the tests in any of our projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikos Koulouris",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "npm-commands": "^1.1.0"
+  },
+  "devDependencies": {
+    "npm": "^8.7.0"
+  }
+}

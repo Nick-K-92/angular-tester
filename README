@@ -1,0 +1,10 @@
+Open project-tester.bat
+set the path where the nodeJs project is located
+save & close
+
+Open index.js 
+Update the paths of the projects to point in your project folders
+save & close
+
+run the project-tester.bat
+test 'till you die
