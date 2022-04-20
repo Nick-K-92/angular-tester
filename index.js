@@ -41,7 +41,7 @@ function runTest(projectId) {
 
     // Run Tests
     console.log('\x1b[36m%s\x1b[0m', `Testing ${project.name}`);
-    // npm().cwd(project.path).run('test');
+    npm().cwd(project.path).run('test');
 
     console.log('\nWhat do you want to do now?');
     console.log(`    1. Test again?
