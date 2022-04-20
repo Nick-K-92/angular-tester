@@ -1,3 +1,5 @@
+npm i
+
 Open project-tester.bat
 set the path where the nodeJs project is located
 save & close
