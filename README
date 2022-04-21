@@ -1,8 +1,6 @@
 npm i
 
-Open project-tester.bat
-set the path where the nodeJs project is located
-save & close
+Create a shortcut of project-tester.bat in you desktop or whereever else you want
 
 Open index.js 
 Update the paths of the projects to point in your project folders
